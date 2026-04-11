@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jhashivanshu5521@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hIIVbCqGNiC26a37FWZevLTam-zElAUw/view?usp=drive_link](https://drive.google.com/file/d/1hIIVbCqGNiC26a37FWZevLTam-zElAUw/view?usp=drive_link)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1CBuf92FJAjqv7bkzthZImDfj-nF_n_np/view?usp=sharing)]
 
 - ⚡ Fun fact **My humour is better then I appear to have!**
 
