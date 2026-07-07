@@ -148,7 +148,7 @@ timeline
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <sub><i>⚙️ Snake animation requires a one-time GitHub Action setup — see the "How to Activate Animations" note below.</i></sub>
