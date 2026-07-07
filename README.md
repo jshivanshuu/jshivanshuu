@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "Your Name"
+name: "Shivanshu Jha"
 role: "4th Year CS Student | Aspiring Software Developer"
 focus: ["DSA & Problem Solving", "Full Stack Development", "AI/ML", "Open Source"]
 currently_exploring: "Open Source Contributions 🌱"
