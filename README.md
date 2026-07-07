@@ -28,7 +28,7 @@ fun_fact: "I debug better than I sleep 😴"
 - 💡 Passionate about **Data Structures, Algorithms & Competitive Programming**
 - 🤖 Exploring **AI/ML** fundamentals and building real-world ML apps
 - ⚡ Always up for **hackathons** and collaborative challenges
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **jhashivanshu5521@gmail.com**
 
 ---
 
