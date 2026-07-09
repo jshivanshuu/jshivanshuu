@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Shivanshu+Jha;Aspiring+Software+Developer;Competitive+Programmer+%7C+800%2B+DSA+Problems;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/main/assets/glow-divider.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/main/assets/glow-heading.svg" alt="Glowing name heading" />
 </p>
 
 <p align="center">
@@ -15,6 +19,11 @@
 ---
 
 ## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/main/assets/glow-avatar.svg" width="180" alt="Glowing profile picture" />
+</p>
+
 
 ```yaml
 name: "Shivanshu Jha"
@@ -163,6 +172,10 @@ timeline
   <a href="https://codechef.com/users/PUT_YOUR_CODECHEF_USERNAME_HERE"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/shivanshujha"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="mailto:jhashivanshu5521@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/main/assets/glow-divider.svg" width="100%"/>
 </p>
 
 <p align="center">
