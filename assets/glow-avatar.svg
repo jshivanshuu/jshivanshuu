@@ -1,0 +1,29 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="ringGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="ringColor" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#00F7FF"/>
+    </linearGradient>
+    <clipPath id="circleClip">
+      <circle cx="110" cy="110" r="88"/>
+    </clipPath>
+  </defs>
+
+  <!-- glowing pulsing ring -->
+  <circle cx="110" cy="110" r="96" fill="none" stroke="url(#ringColor)" stroke-width="6" filter="url(#ringGlow)">
+    <animate attributeName="stroke-width" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="360 110 110" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- profile picture -->
+  <image href="https://github.com/jshivanshuu.png" x="22" y="22" width="176" height="176" clip-path="url(#circleClip)"/>
+</svg>
