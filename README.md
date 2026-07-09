@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/main/assets/glow-avatar.svg" width="180" alt="Glowing profile picture" />
+  <img src="https://raw.githubusercontent.com/jshivanshuu/jshivanshuu/main/mypic5.jpeg" width="180" alt="Glowing profile picture" />
 </p>
 
 
